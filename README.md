@@ -1,2 +1,2 @@
 # hello_world
-a test for
+a test for newly using
